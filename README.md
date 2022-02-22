@@ -1,9 +1,9 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyndem&layout=compact&hide_border=true&langs_count=10"  height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+
 
 ### Hi there 👋
 ### 👨‍💻 Open source work stats
-<img src="https://github-readme-stats.vercel.app/api?username=wyndem&show_icons=true&theme=radical"  height="160" align="left" style="margin: 5px; margin-bottom: 20px;" />
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wyndem&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyndem&layout=compact&hide_border=true&langs_count=10"   width='200"' align="right" />
 
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
