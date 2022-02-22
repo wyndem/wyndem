@@ -1,11 +1,23 @@
 ### Hi there 👋
+### 👨‍💻 Open source work stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wyndem&show_icons=true&theme=radical)
+<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+
+
+***Welcome to do ⭐ my repository if you find it interesting, at least your star could make me stay on track and be motivated.***
+
+
+
+
+
+
+
 <!--
 **wyndem/wyndem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
