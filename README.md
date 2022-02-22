@@ -4,16 +4,18 @@
 ### 👨‍💻 Open source work stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wyndem&show_icons=true&theme=radical)
 
-### ⚡Language
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wyndem&layout=compact&hide_border=true&langs_count=10)
-
-
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+
+
+### ⚡Language
+![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wyndem&layout=compact&hide_border=true&langs_count=10)
+
+
 
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
 
