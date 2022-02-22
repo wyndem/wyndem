@@ -8,6 +8,7 @@
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+![Wyndem used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wyndem&layout=compact&hide_border=true&langs_count=10)
 
 
 ***Welcome to do ⭐ my repository if you find it interesting, at least your star could make me stay on track and be motivated.***
