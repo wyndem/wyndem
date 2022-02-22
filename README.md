@@ -3,7 +3,7 @@
 ### Hi there 👋
 ### 👨‍💻 Open source work stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wyndem&show_icons=true&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyndem&layout=compact&hide_border=true&langs_count=10"   width="200" align="right" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyndem&layout=compact&hide_border=true&langs_count=10"  align="right" />
 
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
