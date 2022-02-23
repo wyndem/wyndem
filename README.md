@@ -7,7 +7,8 @@
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Java         1 hr 17 mins    ██████████████████████▓░░   91.20 % 
+Properties   7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
 ```
 <!--END_SECTION:waka-->
 
