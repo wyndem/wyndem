@@ -17,8 +17,6 @@ No Activity tracked this Week
 
 
 
-<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
-
 
 ***Welcome to do ⭐ my repository if you find it interesting, at least your star could make me stay on track and be motivated.***
 
